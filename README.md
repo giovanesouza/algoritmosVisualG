@@ -1,3 +1,3 @@
-# Exercícios Visual G
+# Exercícios com Visual G
 
 Pseudo-códigos
